@@ -1,10 +1,7 @@
 ### Sobre mim:
-- 👋 Hi, I’m @bpriantti - Quant and Engineer of Automation and Control of Systems.
-- 👀 I’m interested in - Quantitative Finances, AlgoTrading and Machine Learning Engineer
-- 🌱 I’m currently learning - Quantitative Finances, Machine Learning Engineer and Life Things
-- 💞️ I’m looking to collaborate on - Hands On Projects in Quantitative Finances, Algo Trading.
+- 👋 Hi, I’m @bpriantti - Engineer, Quant Analyst.
+- 👀 I’m interested in - Quantitative Finances, Data Science for Financial Markets
 - 📫 How to reach me - E-mail: b.priantti@outlook.com.
-
 
 ### Conecte-se, Comigo:
 <div> 
@@ -23,7 +20,6 @@
   <a href="https://github.com/bpriantti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bpriantti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
 
 <!---
 bpriantti/bpriantti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
