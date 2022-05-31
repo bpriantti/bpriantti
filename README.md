@@ -15,7 +15,7 @@ Oi, Eu sou Bruno Priantti e decidi como proposito de vida me especializar em fin
     •	Inteligencia Artificial. (Machine Learning, Deep Learning).  
 
 Realmente temos muitos tópicos para estudar, para isso pretendo utilizar ferramentas como Excel-VBA, MT5 e Python, principalmente bibliotecas das quais já tenho algum conhecimento como:
-Pandas, NumPy, Matplotlib, Seaborn, Plotly, Sqlite3, Yfinance, Scikit-learn, Statsmodels, Keras …
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Sqlite3, Yfinance, Scikit-learn, Statsmodels, Keras dentre outras.
 
 
 📫 Fale comigo em: b.priantti@outlook.com.  
