@@ -2,17 +2,17 @@
 
 Oi, Eu sou Bruno Priantti e decidi como proposito de vida me especializar em finanças quantitativas e engenharia de machine learning, não é fácil como vocês devem imaginar, sempre tenho muito a estudar e pouco tempo a perder, planejo por aqui contribuir para a comunidade compartilhando conhecimento e estudos e projetos, sobre os tópicos:
 
-  •	Estatística e Data Science.  
-  •	Quantitative Finances.  
-  •	Precificação de Opções e Derivativos.  
-  •	Operações Estruturadas.  
-  •	Macroeconomia e Mercados Financeiros.  
-  •	Valuation e Factor Investig.  
-  •	Quantitative Trading.  
-  •	Montagem de Portifólios.  
-  •	Riscos.  
-  •	Volatilidade de ativos financeiros.  
-  •	Inteligencia Artificial. (Machine Learning, Deep Learning).  
+    •	Estatística e Data Science.  
+    •	Quantitative Finances.  
+    •	Precificação de Opções e Derivativos.  
+    •	Operações Estruturadas.  
+    •	Macroeconomia e Mercados Financeiros.  
+    •	Valuation e Factor Investig.  
+    •	Quantitative Trading.  
+    •	Montagem de Portifólios.  
+    •	Riscos.  
+    •	Volatilidade de ativos financeiros.  
+    •	Inteligencia Artificial. (Machine Learning, Deep Learning).  
 
 Realmente temos muitos tópicos para estudar, para isso pretendo utilizar ferramentas como Excel-VBA, MT5 e Python, principalmente bibliotecas das quais já tenho algum conhecimento como:
 Pandas, NumPy, Matplotlib, Seaborn, Plotly, Sqlite3, Yfinance, Scikit-learn, Statsmodels, Keras …
