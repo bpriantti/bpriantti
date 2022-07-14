@@ -16,6 +16,7 @@ Atualmente meus projetos estão mais aplicados ao desenvolvimento para Mercados 
     - Risk Management.
 
 Desenvolvo em linguagens:  
+
     - C/C++.  
     - Python.  
     - Java.  
