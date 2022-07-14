@@ -15,7 +15,7 @@ Atualmente meus projetos estão mais aplicados ao desenvolvimento para Mercados 
     - Pricing e operações estruturadas.
     - Risk Management.
 
-Desenvolvo em linguagens:
+Desenvolvo em linguagens:  
     - C/C++.  
     - Python.  
     - Java.  
