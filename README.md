@@ -11,6 +11,7 @@ Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação, 
 Atualmente meus projetos estão mais aplicados ao desenvolvimento para Mercados financeiros nas áreas:  
 
     - Quantitative trading.
+    - Macro Economy Research.
     - Volatility/Financial Markets Forecasting.
     - Pricing e operações estruturadas.
     - Risk Management.
