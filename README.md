@@ -1,6 +1,6 @@
 ### About Me:
 
-Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação,  e atuo desenvolvendo projeto nas áreas de:  
+Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação,  e atuo no desenvolvimento de projetos nas áreas de:  
 
     - Desenvolvimento de sistemas de automação.   
     - Desenvolvimento de software. (FullStack) 
