@@ -26,7 +26,7 @@ Desenvolvo em linguagens:
 
 
 
-📫 Fale comigo em: b.priantti@outlook.com.  
+📫 Fale comigo em: bpriantti@gmail.com.  
 
 ##
 ### Saiba mais sobre mim em:
