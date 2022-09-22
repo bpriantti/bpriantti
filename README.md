@@ -8,7 +8,7 @@ Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação, 
     - AI-machine learning engineering.  
     - Computational/Quantitative Finance.  
 
-Atualmente meus projetos estão mais aplicados ao desenvolvimento para Mercados financeiros nas áreas:  
+Atualmente meus projetos estão mais aplicados ao desenvolvimento nas áreas:  
 
     - Quantitative Finances.
     - Data Science
