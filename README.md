@@ -3,7 +3,7 @@
 Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação,  e atuo no desenvolvimento de projetos nas áreas de:  
 
     - Desenvolvimento de sistemas de automação.   
-    - Desenvolvimento de software. (FullStack) 
+    - Desenvolvimento de software.
     - Data science/Data analysis.  
     - AI-machine learning engineering.  
     - Computational/Quantitative Finance.  
@@ -20,7 +20,6 @@ Desenvolvo em linguagens:
     - Python.  
     - R.  
     - VBA-Excel.  
-
 
 
 📫 Fale comigo em: bpriantti@gmail.com.  
