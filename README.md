@@ -8,19 +8,19 @@ Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação, 
     - AI-machine learning engineering.  
     - Computational/Quantitative Finance.  
 
-Acesse meu Portfolio de Projetos, em:
-
-
-
 Desenvolvo em linguagens:  
 
     - C/C++.  
     - Python.  
     - R.  
     - VBA-Excel.  
+    
+📫 Acesse meu Portfolio de Projetos, em:
 
+- https://www.gitshowcase.com/bpriantti
 
-📫 Fale comigo em: bpriantti@gmail.com.  
+📫 Fale comigo em: 
+- bpriantti@gmail.com.  
 
 ##
 ### Saiba mais sobre mim em:
