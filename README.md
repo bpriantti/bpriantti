@@ -2,17 +2,14 @@
 
 Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação pelo ifam e pos-graduando em data science pelo icmc-usp, atuo no desenvolvimento de projetos nas áreas de:  
 
-    - Desenvolvimento de sistemas de automação.   
     - Desenvolvimento de software.
     - Data science/Data analysis.  
-    - AI-machine learning engineering.  
-    - Computational/Quantitative Finance.  
+    - Financial ML/Quantitative Finance.  
 
 Desenvolvo em linguagens:  
 
-    - C/C++.  
     - Python.  
-    - R.  
+    - SQL
     - VBA-Excel.  
     
 📫 Acesse meu Portfolio de Projetos, em:
