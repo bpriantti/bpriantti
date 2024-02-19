@@ -1,22 +1,22 @@
-### About Me:
+### Sobre Mim:
 
-Oi, eu sou Bruno Priantti sou Engenheiro de sistemas de controle e automação pelo ifam e pos-graduando em data science pelo IPOG, atuo no desenvolvimento de projetos nas áreas de: 
+Olá, meu nome é Bruno Priantti. Sou formado em Engenharia de Sistemas de Controle e Automação pelo IFAM e atualmente estou cursando pós-graduação em Data Science no IPOG. Tenho experiência no desenvolvimento de projetos nas áreas de:
 
-    - Data science.  
-    - Sistemas Embarcados
+- Data Science.
+- Sistemas de Automação.
 
-Desenvolvo em linguagens:  
+Minhas habilidades incluem programação em:
 
-    - Python.
-    - C++
-    - SQL.
-    
-📫 Acesse meu Portfolio de Projetos, em:
+- Python.
+- C++.
+- SQL.
 
-- https://www.gitshowcase.com/bpriantti
+📫 Explore meu [Portfólio de Projetos](https://www.gitshowcase.com/bpriantti).
 
-📫 Fale comigo em: 
-- bpriantti@gmail.com.  
+📫 Entre em contato comigo via email:
+
+- [bpriantti@gmail.com](mailto:bpriantti@gmail.com).
+
 
 ##
 <div> 
