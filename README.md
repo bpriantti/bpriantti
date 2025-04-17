@@ -1,31 +1,39 @@
-### Sobre Mim:
 
-Olá, meu nome é Bruno Priantti. Sou formado em Engenharia de Sistemas de Controle e Automação pelo IFAM e atualmente estou cursando pós-graduação em Data Science no IPOG. Tenho experiência no desenvolvimento de projetos nas áreas de:
+## About Me:
 
-- Data Science.
-- Sistemas de Automação.
+Hi! I'm a **multidisciplinary engineer** focused on building data-driven solutions that connect digital intelligence with real-world systems.
 
-Minhas habilidades incluem programação em:
+I hold a degree in **Control & Automation Engineering**, with experience in **Embedded Systems**, and a postgraduate specialization in **Data Science**. I apply my skills across diverse fields — from **industrial automation** and **IoT** to **machine learning** and **quantitative finance**.
 
-- Python.
-- C++.
-- SQL.
+I’m currently working independently on a personal project where I develop predictive models and trading tools for financial markets, using advanced AI techniques, custom pricing APIs, and risk management systems.
 
-📫 Explore meu [Portfólio de Projetos](https://www.gitshowcase.com/bpriantti).
+## Instresting Areas:
 
-📫 Entre em contato comigo via email:
+- 🧠 Machine Learning & Deep Learning (Finance & Industry)
+- 📈 Quantitative Finance & Derivatives Pricing
+- ⚙️ Automation, Embedded Systems & IIoT
+- 🖥️ Simulation, Control Systems & SCADA Tools
+- 🌐 Solutions with Python, Software Developping 
 
-- [bpriantti@gmail.com](mailto:bpriantti@gmail.com).
+## Skills:
 
+**Programming & Tools:** Python, C/C++, MATLAB, SQL, Git, Docker, FastAPI, Streamlit, Plotly, React, Node.js  
+**Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, XGBoost, Time Series Forecasting, NLP  
+**Quantitative Finance:** Options Pricing, Volatility Modeling, Risk Metrics, Backtesting, Greeks, Derivatives API  
+**Embedded & Automation:** ESP32, STM32, Arduino, FreeRTOS, MQTT, CAN, Modbus, Ladder Logic (basics)  
+**Data Science & Analytics:** Pandas, NumPy, SciPy, Statsmodels, Power BI, Dashboards, Data Cleaning  
+**Control Systems & Simulation:** PID, State Machines, Kalman Filter, Simulink, SCADA Interfaces (HMI/OPC)  
+**Cloud & Deployment:** GitHub Actions, CI/CD, Heroku, Docker Compose (basics)  
 
-##
+## Contact
+
+- Email: [bpriantti@gmail.com](mailto:bpriantti@gmail.com)
+
 <div> 
-  <a href="https://www.linkedin.com/in/bpriantti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-
-         
-          
-  
+  <a href="https://www.linkedin.com/in/bpriantti" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
 
   
 
