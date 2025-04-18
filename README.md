@@ -28,13 +28,7 @@ I’m currently working independently on a personal project where I develop pred
 ## Contact
 
 - Email: [bpriantti@gmail.com](mailto:bpriantti@gmail.com)
-
-<div> 
-  <a href="https://www.linkedin.com/in/bpriantti" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
+- Likedin: https://www.linkedin.com/in/bpriantti
   
 
 
