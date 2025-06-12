@@ -7,7 +7,7 @@ I hold a degree in **Control & Automation Engineering**, with experience in **Em
 
 I’m currently working independently on a personal project where I develop predictive models and trading tools for financial markets, using advanced AI techniques, custom pricing APIs, and risk management systems.
 
-## Instresting Areas:
+## Intresting Areas:
 
 - 🧠 Machine Learning & Deep Learning (Finance & Industry)
 - 📈 Quantitative Finance & Derivatives Pricing
