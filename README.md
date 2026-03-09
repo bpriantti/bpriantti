@@ -1,12 +1,13 @@
 ---
 
 # Bruno Priantti
+### Engineer | Quant Researcher |
 
-### Engineer & Full-Stack Developer | Financial Automation & Risk Analytics
+Control and Automation Engineer with a specialization in Data Science. I develop machine learning models, quantitative trading systems, and research frameworks for financial markets, with emphasis on time-series forecasting, volatility modeling, and directional signals. I also work with predictive maintenance and anomaly detection using vibration and audio data, and I have a strong interest in dynamic systems modeling.
 
-Economista formado pela Insituto Federal de Ciencie e Tecnologia, com pós-graduação em **Data Science**, atuo na interseção entre **finanças, dados e engenharia de software**. Desenvolvo soluções tecnológicas que transformam complexidade econômica em **ferramentas escaláveis de análise, automação e apoio à decisão**.
+Founder of Quantyma, where I build quantitative research tools and systems for asset management, alongside educational initiatives.
 
-Atualmente, concentro meus projetos em **modelagem de risco, análise de dados financeiros e automação de processos**, com aplicações hospedadas em infraestrutura própria (**VPS**), garantindo controle, desempenho e segurança.
+I also work on predictive maintenance and anomaly detection using vibration and audio data, with a strong interest in dynamic systems modeling.
 
 ---
 
@@ -32,16 +33,7 @@ Atualmente, concentro meus projetos em **modelagem de risco, análise de dados f
 
 ---
 
-### Professional Highlights
-
-* Desenvolvimento do **Conexão Criativa (SaaS)** — plataforma de análise de sentimentos e coleta estruturada de dados
-* Implementação e gestão de **infraestrutura em VPS**, com Docker, Nginx e deploy contínuo
-* Modelagem de **Credit Scoring**, análise de risco e automação de rotinas financeiras e de tesouraria
-* Integração entre **engenharia de software e inteligência econômica** para geração de insights acionáveis
-
----
-
-📫 **Contato profissional:**
+📫 **Contact:**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/bpriantti)
 
 ---
